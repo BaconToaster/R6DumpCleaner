@@ -1,0 +1,7 @@
+{
+  "name": "r6dumpcleaner",
+  "version": "1.0.0",
+  "dependencies": [
+    "zydis"
+  ]
+}

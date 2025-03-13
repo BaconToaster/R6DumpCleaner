@@ -2,3 +2,6 @@
 x64
 *.vcxproj.filters
 *.vcxproj.user
+
+# vcpkg
+vcpkg_installed/
